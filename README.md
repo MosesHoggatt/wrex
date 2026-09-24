@@ -1,6 +1,8 @@
 # Wrex
 
-This repository is for **Wrex installers** and **Docker images**. Application source (Android, NAS, web) is private and is not published here.
+Public home for **Wrex** installers and Docker images. Site: [moseshoggatt.github.io/wrex](https://moseshoggatt.github.io/wrex/).
+
+Application source (Android, NAS, web) is **private**. It is not published here.
 
 ## Docker images (server)
 
